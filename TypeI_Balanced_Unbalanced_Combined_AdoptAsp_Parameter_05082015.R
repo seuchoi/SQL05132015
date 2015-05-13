@@ -1,3 +1,5 @@
+# Cool!
+
 setwd("/restricted/projectnb/brainseq/seuchoi/T1Cov/Result/TypeI/Balanced")
 data1<-read.csv("TypeI_Balanced_Combined_AdoptAsp_Result_Empirical_Threshold_05082015.csv",header=T,as.is=T)
 setwd("/restricted/projectnb/brainseq/seuchoi/T1Cov/Result/TypeI/Unbalanced")
